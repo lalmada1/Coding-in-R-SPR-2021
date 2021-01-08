@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              DS4PS
-description:        Intro. course in data-drive management
+title:              Coding-in-R
+description:        Intro. course to Coding in R for Policy 
 
 # Site subpath, e.g. /blog
 url :               "https://lalmada1.github.io"
