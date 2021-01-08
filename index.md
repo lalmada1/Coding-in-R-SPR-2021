@@ -143,6 +143,10 @@ The assigned work for the course has four components:
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
+- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
+
+- **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
+
 - **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The six weekly discussion topics (plus the Code-Through) are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You can earn up to 100 points (out of a total of 140 points) by posting topics and interacting with peers in order to earn a perfect score on towards your final course grade. The points each week are allocated as follows:
 
   - 5 points for a new post with at least 200 words
@@ -151,10 +155,6 @@ The assigned work for the course has four components:
   - 3 points if you earn instructor praise for an informative post
   - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through)
   
-- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
-
-- **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
-
 ## D. Late and Missing Assignments
 
 Grades for the course are largely based on weekly labs. Assigned work is accompanied by detailed instructions, adequate time for completion, and opportunities to consult the instructor with questions. As a result, each assignment element in the course is expected to be completed by the due date. Once solutions for labs are posted, it is no longer possible to receive points for assignments. Final projects will not be accepted 24 hours past the due date. **Late submissions will be reduced by one point per day late, rounding up.**
