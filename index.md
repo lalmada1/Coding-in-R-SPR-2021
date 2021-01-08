@@ -27,7 +27,7 @@ instructor:
    office_location: 55 Park Place NE Room 682
    website_url: 'https://aysps.gsu.edu/profile/lorenzo-almada/'
    office_hours_time: Tuesdays 2:00 - 3:00 pm or by Appointment  
-   office_hours_location: 'https://gsumeetings.webex.com/meet/lalmada1'
+   office_hours_location: WebEx Meeting 
 
 textbooks:
 - title: R Cookbook. Proven recipes
