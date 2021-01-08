@@ -34,7 +34,7 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ## Introduction
 
-**Lorenzo Almada, PhD** is a clinical assistant professor of economics at *Georgia State University*. Dr. Almada’s research interests focus primarily on policy-driven questions in the field of health economics centered around the effects of food assistance programs and social policies on diet-related outcomes. 
+**Lorenzo Almada, PhD** is a clinical assistant professor of economics at *Georgia State University*. Dr. Almada’s research interests focus primarily on policy-driven questions in the field of health economics centered around the effects of food assistance programs and social policies on diet-related outcomes. His teaching focuses primarily on microeconomics and data science and analytics.  
 
 
 <br>
@@ -92,16 +92,16 @@ You will have plenty of practice with these tools this semester. You will submit
 <br>
 
 
-*** { @unit = "Due June 11", @title = "Your Course Prep Checklist", @assignment, @foldout }
+*** { @unit = "Due Jan 14", @title = "Your Course Prep Checklist", @assignment, @foldout }
 
 
-- [ ] [Read the Syllabus](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/) 
+- [ ] [Read the Syllabus](https://lalmada1.github.io/Coding-in-R-SPR-2021/) 
 - [ ] [Install R](https://cran.rstudio.com/) and [R Studio Desktop](https://www.rstudio.com/products/rstudio/download/) 
 - [ ] [Sign-Up for a GitHub Account](https://github.com/join) 
 - [ ] [View the Virtual Orientation](https://www.youtube.com/watch?v=cyrAovBCt4Q&feature=youtu.be) 
 
 
-*** { @unit = "Due June 11", @title = "Introduce Yourself", @assignment, @foldout   }
+*** { @unit = "Due Jan 14", @title = "Introduce Yourself", @assignment, @foldout   }
 
 ## Introduce yourself to the class
 
@@ -111,7 +111,7 @@ We will be using the discussion board in iCollege for this course. Introduce you
 2. Your previous experience with coding and/or data analytics 
 3. One thing you hope to do with your new skills in data analytics 
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 
 
@@ -138,7 +138,7 @@ Nerds are stereotypically perceived as being hermetic, but in reality they have 
 
 We are going to throw a lot at you, but also provide a lot of support. Over these first couple of weeks feel free to reach out for anything you might need. 
 
-If you find something confusing let me know (likely others will as well).  You can post a question to the [homework discussion board](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/).   
+If you find something confusing let me know (likely others will as well).  You can post a question to the [homework discussion board](https://lalmada1.github.io/Coding-in-R-SPR-2021/help/).   
 
 Reach out if you have questions or feel stuck! 
 
@@ -231,7 +231,7 @@ head( dat )
 
 
 
-*** { @unit = "Due June 14", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
+*** { @unit = "Due Jan 17", @title = "Discussion Topic: The Promise of Big and Open Data", @assignment, @foldout  }
 
 ## The Promise of Big, Open Data
 
@@ -255,13 +255,13 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 **In your post, highlight what is interesting about the example and what data made it possible.** 
 
-**Due by 11:59pm on June 14.**
+**Due by 11:59pm on Jan 17.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br>
 
-*** { @unit = "Due June 18", @title = "Lab 01", @assignment, @foldout  }
+*** { @unit = "Due Jan 21", @title = "Lab 01", @assignment, @foldout  }
 
 
 <br>
@@ -269,11 +269,11 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 ## Lab-01 - Practice with Vectors
 
-<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
+<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 18.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on Jan 21.**
 
 <br>
 <br>
@@ -347,7 +347,7 @@ Lab-02 covers the following topics:
 
 
 
-*** { @unit = "Due June 21", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
+*** { @unit = "Due Jan 24", @title = "Discussion Topic: A Tour of R Packages", @assignment, @foldout  }
 
 <br>
 
@@ -377,9 +377,9 @@ Take note, this assignment asks you to explore a new community where the technic
 
 <br>
 
-**Due by 11:59pm on June 21.**
+**Due by 11:59pm on Jan 24.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -388,7 +388,7 @@ Take note, this assignment asks you to explore a new community where the technic
 
 
 
-*** { @unit = "Due June 25", @title = "Lab 02", @assignment, @foldout }
+*** { @unit = "Due Jan 28", @title = "Lab 02", @assignment, @foldout }
 
 <br>
 <br>
@@ -407,11 +407,11 @@ Read the following sections from the [course chapter on groups](http://ds4ps.org
 
 The rest of the chapter is useful information to come back to, but not needed for the lab. Similar to last week the chapter will highlight some easy ways to make errors with your code, not to convince you that R is hard, but rather to ensure you are paying attention to some subtle features of computer languages that can impact your data. 
 
-<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
+<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit Solutions to the iCollege Assignment Folder by 11:59pm on June 25.**
+**Submit Solutions to the iCollege Assignment Folder by 11:59pm on Jan 28.**
 
 <br>
 <br>
@@ -512,7 +512,7 @@ The lab requires you to re-create a graph that was featured in the New York Time
 
 
 
-*** { @unit = "Due June 28", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
+*** { @unit = "Due Jan 31", @title = "Discussion Topic: Data Viz Packages", @assignment, @foldout  }
 
 <br>
 <br>
@@ -527,9 +527,9 @@ For example, you might want to create budgets for a government organization. You
 
 You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/) and [The Data Viz Project](https://datavizproject.com/) helpful.
 
-**Due by 11:59pm on June 28.**
+**Due by 11:59pm on Jan 31.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
@@ -537,7 +537,7 @@ You will find sites like the [R Graphs Gallery](https://www.r-graph-gallery.com/
 
 
 
-*** { @unit = "Due July 2", @title = "Lab 03", @assignment, @foldout  }
+*** { @unit = "Due Feb 4", @title = "Lab 03", @assignment, @foldout  }
 
 <br>
 <br>
@@ -555,7 +555,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 2.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 4.**
 
 <br>
 <br>
@@ -625,7 +625,7 @@ But we will now add an input widget that allows users to select one team that wi
 
 
 
-*** { @unit = "Due July 5", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
+*** { @unit = "Due Feb 7", @title = "Discussion Topic: Bad Graphs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -642,9 +642,9 @@ Unfortunatly, it is much easier to create tragically bad graphics than it is to 
 
 This use of [clowns](https://peltiertech.com/bad-bar-chart-practices-or-send-in-the-clowns/) in bar charts is one of my favorites. You might also enjoy [pizza charts](http://getdolphins.com/blog/the-worst-graphs-of-2017/) or [these gems](https://www.distractify.com/humor/2017/05/26/cszBB/hilariously-bad-graphs). 
 
-**Due by 11:59pm on July 5.**
+**Due by 11:59pm on Feb 7.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 <br>
 <br>
 
@@ -666,7 +666,7 @@ For more widget examples visit the [R Shiny Widget Gallery](https://shiny.rstudi
 
 
 
-*** { @unit = "Due July 9", @title = "Lab 04", @assignment, @foldout  }
+*** { @unit = "Due Feb 11", @title = "Lab 04", @assignment, @foldout  }
 
 
 <br>
@@ -680,7 +680,7 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit solutions to the iCollege Assignments Folder by 11:59pm on July 9.**
+**Submit solutions to the iCollege Assignments Folder by 11:59pm on Feb 11.**
 
 <br>
 <br>
@@ -736,7 +736,7 @@ Lab 05 will use data on traffic accidents in the City of Tempe:
 
 
 
-*** { @unit = "Due July 12", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
+*** { @unit = "Due Feb 14", @title = "Discussion Topic: Data APIs", @assignment, @foldout  }
 
 <br>
 <br>
@@ -765,16 +765,16 @@ You can find APIs through a Google search, or browse datasets on the [DS4PS Open
 
 *Note, you do not have to show how to use the API for the post. Just identify what information is accessible and how it might be used.*
 
-**Due by 11:59pm on July 12.**
+**Due by 11:59pm on Feb 14.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
 
 
 
-*** { @unit = "Due July 16", @title = "Lab 05", @assignment, @foldout  }
+*** { @unit = "Due Feb 18", @title = "Lab 05", @assignment, @foldout  }
 
 <br>
 <br>
@@ -785,11 +785,11 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 *Note, this data will be used for your final dashboard. This assignment is a preview of the types of analysis and graphics you might report on the dashboard.*
 
-<a class="uk-button uk-button-default" href="https://cssearcy.github.io/AYS-R-Coding-SPR-2020/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
+<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 16.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 18.**
 
 <br>
 <br>
@@ -850,7 +850,7 @@ We will join the Salaries table to player bios (Master table) and performance da
 
 
 
-*** { @unit = "Due July 19", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
+*** { @unit = "Due Feb 21", @title = "Discussion Topic: Github for Govt", @assignment, @foldout  }
 
 <br>
 
@@ -904,14 +904,14 @@ plot( traffic, col="steelblue" )
 
 **Do you think open source frameworks would help open the black box and make government more accessible? Would government become more accessible, or alienate regular citizens that are not computer scientists? Would it make influence from special interests more transparent, or would it make it easier for them to hijack the process of shaping local laws?** 
 
-**Due by 11:59pm on July 19.**
+**Due by 11:59pm on Feb 21.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br><br>
 
 
-*** { @unit = "Due July 23", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due Feb 25", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -924,7 +924,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on July 23.**
+**Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 25.**
 
 <br>
 <br>
@@ -947,7 +947,7 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due July 26", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
+*** { @unit = "Due Feb 25", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
@@ -962,15 +962,15 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Due by 11:59pm on July 26.**
+**Due by 11:59pm on Feb 25.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
 <br>
 <br>
 
 
-*** { @unit = "Due July 31", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
+*** { @unit = "Due Feb 25", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
 
 <br>
 <br>
@@ -984,9 +984,9 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit your project to the iCollege Assignment Folder by 11:59pm on July 31.**
+**Submit your project to the iCollege Assignment Folder by 11:59pm on Feb 25.**
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2013035/discussions/List">Post to iCollege</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2225789">Post to iCollege</a>
 
 <br>
 <br>
