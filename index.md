@@ -15,7 +15,7 @@ info:
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2225789'
  course_start_end_dates: Jan 11 to Feb 28, 2021 
- course_prerequisites: A good attitude and willingness to put in the time!   
+ course_prerequisites: Eager to learn and willing to put in the time   
  class_meets_when:  Online Asynchronously   
  class_meets_where:  Online Asynchronously 
  discussion_board_url: https://lalmada1.github.io/Coding-in-R-SPR-2021/help/ 
@@ -26,7 +26,7 @@ instructor:
    email: lalmada1@gsu.edu
    office_location: 55 Park Place NE #682
    website_url: 'https://aysps.gsu.edu/profile/lorenzo-almada/'
-   office_hours_time: Tuesdays 2:00 - 3:00 pm or by Appointment  
+   office_hours_time: Tuesdays 2 - 3 pm or by Appointment  
    office_hours_location:  https://gsumeetings.webex.com/meet/lalmada1
 
 textbooks:
