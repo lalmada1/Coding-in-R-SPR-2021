@@ -167,7 +167,7 @@ Grades for the course are largely based on weekly labs. Assigned work is accompa
 
 All course content is hosted on this website. Readings, assignments, and other course materials will be distributed via this site and/or through announcements on iCollege. **All assignment submissions will be made through iCollege and are due by 11:59pm on the due dates listed on the course schedule.** 
 
-**You should make every attempt to attend weekly lab sessions to get help on lab work.** If you miss a lab session, please post questions on the [Get Help](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/) page on this site. You may also schedule individual office hours using the instructor links provided above, or you may email the instructor directly. 
+If you have questions about the course please post them on the [Get Help](https://lalmada1.github.io/Coding-in-R-SPR-2021/help/) page on this site. You can schedule individual office hours by emailing the instructor directly. 
 
 Students should be aware that the course instructor will attempt to respond to any course-related email as quickly as possible. Students are asked to allow between 24 and 48 hours for replies to direct instructor emails, generally, as a reasonable time to reply to questions or other issues posed in an email. Additionally, the general timeline for instructor grading or other feedback on assignments, either written work or online discussion work, is between 5 and 10 work days.
 
@@ -193,7 +193,7 @@ This course spans a rigorous seven week schedule. A schedule for each week of th
 
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignment. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-[Schedule](https://cssearcy.github.io/AYS-R-Coding-SPR-2020/schedule/)
+[Schedule](https://lalmada1.github.io/Coding-in-R-SPR-2021/schedule/)
 
 
 <br>
