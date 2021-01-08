@@ -149,7 +149,10 @@ The assigned work for the course has four components:
   - 3 points for a substantive comment (> 50 words) made to another student's post
   - 2 points if you receive a comment on your post
   - 3 points if you earn instructor praise for an informative post
-  - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through).
+  - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through)
+  
+  
+  
 
 - **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
