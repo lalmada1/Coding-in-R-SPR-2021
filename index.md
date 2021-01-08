@@ -26,8 +26,8 @@ instructor:
    email: lalmada1@gsu.edu
    office_location: 55 Park Place NE Room 682
    website_url: 'https://aysps.gsu.edu/profile/lorenzo-almada/'
-   office_hours_time: Tuesdays 2 - 3 pm or by Appointment  
-   office_hours_location:  https://gsumeetings.webex.com/meet/lalmada1
+   office_hours_time: Tuesdays 2:00 - 3:00 pm or by Appointment  
+   office_hours_location: 'https://gsumeetings.webex.com/meet/lalmada1'
 
 textbooks:
 - title: R Cookbook. Proven recipes
@@ -149,7 +149,7 @@ The assigned work for the course has four components:
   - 3 points for a substantive comment (> 50 words) made to another student's post
   - 2 points if you receive a comment on your post
   - 3 points if you earn instructor praise for an informative post
-  - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through)
+  - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through).
 
 - **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
