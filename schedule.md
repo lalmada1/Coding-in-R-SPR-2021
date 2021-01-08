@@ -933,7 +933,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 
 
-** Week 7 - Dashboards
+** Week 7 - Final Projects (Code-Through and Dashboard)
 
 
 *** { @unit = "", @title = "Reflection", @foldout }
@@ -970,7 +970,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 <br>
 
 
-*** { @unit = "Due Feb 25", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
+*** { @unit = "Due Feb 28", @title = "Final Project: Data Dashboard", @assignment, @foldout  }
 
 <br>
 <br>
@@ -984,7 +984,7 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
 
-**Submit your project to the iCollege Assignment Folder by 11:59pm on Feb 25.**
+**Submit your project to the iCollege Assignment Folder by 11:59pm on Feb 28.**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2225789">Post to iCollege</a>
 
