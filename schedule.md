@@ -3,7 +3,7 @@ layout: schedule
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2013035'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=2225789'
 ---
  
 <!--- 
@@ -34,23 +34,12 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ## Introduction
 
-**Jamison Crawford, MPA** is an institutional researcher at *The Graduate School at Georgia State University* and *Center for the Advancement of Students & Alumni (CASA)*, instructs Foundations of Data Science at *Arizona State University's Watts College*, and consults social sector organizations in data analytics, specializing in nonprofit and philanthropic organizations.
+**Lorenzo Almada, PhD** is a clinical assistant professor of economics at *Georgia State University*. Dr. Almada’s research interests focus primarily on policy-driven questions in the field of health economics centered around the effects of food assistance programs and social policies on diet-related outcomes. 
 
-He is the co-author of this course's textbook, "Data Science for Public Service (DS4PS)", and has taught R and other data analytic tools to social sector professionals since 2016.  Visit the links below to view Jamison's portfolios and professional media:
-
-* [LinkedIn Profile](https://www.linkedin.com/in/jamisoncrawford/)
-
-* [RPubs Portfolio](https://rpubs.com/JamisonCrawford)
-
-* [GitHub Profile](https://github.com/jamisoncrawford)
 
 <br>
 
-## A Little About Me
 
-View the following video to learn more about Jamison.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Abe4rd5vrvw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
