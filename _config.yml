@@ -9,16 +9,16 @@ title:              DS4PS
 description:        Intro. course in data-drive management
 
 # Site subpath, e.g. /blog
-url :               "https://cssearcy.github.io"
-baseurl:            "/AYS-R-Coding-SPR-2020"
-course_url:         "https://cssearcy.github.io/AYS-Coding-in-R-Spr-2020"
+url :               "https://lalmada1.github.io"
+baseurl:            "/Coding-in-R-SPR-2021"
+course_url:         "https://lalmada1.github.io/Coding-in-R-SPR-2021"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
 
 # calendly app for virtual office hours
-calendly:  'https://calendly.com/lecy/15min'
+calendly: 
 
 # Header text on the left
 brand:
@@ -46,14 +46,14 @@ header:
 
 # Default author settings
 author:
-    name:       Cynthia Searcy
-    github:     cssearcy   # Github username for avatar
+    name:       Lorenzo Almada
+    github:     lalmada1   # Github username for avatar
 
 github_info:
-    username:          cssearcy # Github location of the course
+    username:          lalmada1 # Github location of the course
     branch:            master
-    website-repo:      AYS-R-Coding-SPR-2020
-    course-repo:       AYS-R-Coding-SPR-2020
+    website-repo:      Coding-in-R-SPR-2021
+    course-repo:       Coding-in-R-SPR-2021
 
 
 
