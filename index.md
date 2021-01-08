@@ -15,7 +15,7 @@ info:
  course_level: Graduate 
  course_website: 'https://gastate.view.usg.edu/d2l/home/2225789'
  course_start_end_dates: Jan 11 to Feb 28, 2021 
- course_prerequisites: Eager to learn and willing to put in the time   
+ course_prerequisites: Eagerness to learn + willingness to work   
  class_meets_when:  Online Asynchronously   
  class_meets_where:  Online Asynchronously 
  discussion_board_url: https://lalmada1.github.io/Coding-in-R-SPR-2021/help/ 
@@ -26,8 +26,8 @@ instructor:
    email: lalmada1@gsu.edu
    office_location: 55 Park Place NE Room 682
    website_url: 'https://aysps.gsu.edu/profile/lorenzo-almada/'
-   office_hours_time: Tuesdays 2:00 - 3:00 pm or by Appointment  
-   office_hours_location: WebEx Meeting 
+   office_hours_time: Tuesdays 2 - 3:00 pm or by Appointment  
+   office_hours_location: WebEx  
 
 textbooks:
 - title: R Cookbook. Proven recipes
@@ -151,9 +151,6 @@ The assigned work for the course has four components:
   - 3 points if you earn instructor praise for an informative post
   - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through)
   
-  
-  
-
 - **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
 
 - **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
