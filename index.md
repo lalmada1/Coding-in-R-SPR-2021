@@ -11,27 +11,23 @@ info:
  program_title: 
  program_website:
  course_title: Coding in R for Policy Analytics
- course_number: ECON 8000/PMAP 8921 
+ course_number: ECON 8000 / PMAP 8921 / CRJU 8830
  course_level: Graduate 
- course_website: 'https://gastate.view.usg.edu/d2l/home/2056378'
- course_start_end_dates: June 8 to July 31, 2021 
- course_prerequisites:  
- class_meets_when:  Online  
- class_meets_where:  Online
- review_sessions_where: Online
- discussion_board_url: https://cssearcy.github.io/AYS-R-Coding-SPR-2020/help/ 
+ course_website: 'https://gastate.view.usg.edu/d2l/home/2225789'
+ course_start_end_dates: Jan 11 to Feb 28, 2021 
+ course_prerequisites: A good attitude and willingness to put in the time!   
+ class_meets_when:  Online Asynchronously   
+ class_meets_where:  Online Asynchronously 
+ discussion_board_url: https://lalmada1.github.io/Coding-in-R-SPR-2021/help/ 
 
 instructor:
--  name: Jamison Crawford
-   title: Associate Faculty
-   email: jcrawford52@gsu.edu
-   office_location: 55 Park Place NE #320
-   website_url: 'https://rpubs.com/jamisoncrawford'
-   github_url: 'https://github.com/jamisoncrawford' 
-   linked_in_url: 'https://www.linkedin.com/in/jamisoncrawford/'
-   office_hours_time: 
-   office_hours_location:  Online
-   office_hours_app_url:  'https://calendly.com/jamisoncrawford/20min'
+-  name: Lorenzo Almada
+   title: Clinical Assistant Professor
+   email: lalmada1@gsu.edu
+   office_location: 55 Park Place NE #682
+   website_url: 'https://aysps.gsu.edu/profile/lorenzo-almada/'
+   office_hours_time: Tuesdays 2:00 - 3:00 pm or by Appointment  
+   office_hours_location:  https://gsumeetings.webex.com/meet/lalmada1
 
 textbooks:
 - title: R Cookbook. Proven recipes
@@ -147,17 +143,17 @@ The assigned work for the course has four components:
 
 - **Weekly Labs (50%):**  Each week you will receive a short lab that will help you synthesize the modules from the week though exercises that involve data, analysis, and important formulas from the modules. These labs contain exercises that are similar in form or difficulty to what will be applied in the final project. **They are graded pass / fail** by the instructors based upon an assessment of whether you have sincerely attempted the lab and answered over half of the questions correctly. This is designed to hold you accountable for the material, but not create anxiety about perfection.
 
-- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
-
-- **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
-
-- **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The weekly discussion topics are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You need to earn at least 100 points by posting topics and interacting with peers in order to earn full credit. The points each week are allocated as follows:
+- **Discussion Topics (10%):**  iCollege discussion topics are used to introduce you to the data science ecosystem. Since this course focuses on the skill of learning data programming we cannot cover exciting resources and developments in the broad field of data science. The six weekly discussion topics (plus the Code-Through) are a chance to explore some resources or reflect on a specific theme or article on your own. We will use iCollege discussion boards for this assignment. You can earn up to 100 points (out of a total of 140 points) by posting topics and interacting with peers in order to earn a perfect score on towards your final course grade. The points each week are allocated as follows:
 
   - 5 points for a new post with at least 200 words
   - 3 points for a substantive comment (> 50 words) made to another student's post
   - 2 points if you receive a comment on your post
   - 3 points if you earn instructor praise for an informative post
-  - Max of 20 points can be earned each week
+  - Max of 20 points can be earned each week (6 discussions plus 1 Code-Through)
+
+- **Final Dashboard Project (30%):**  This course will end with a final project that requires you to analyze some data and present your results as a data dashboard. It is designed to give you practice integrating the material that we have covered throughout the course. The instructions for the project will be accompanied by a rubric describing the allocation of points and criteria for evaluation.
+
+- **Code-Through Project (10%):**  In addition to the final dashboard project, you will be asked to complete a "Code Through", or tutorial of sorts, in R Markdown. This tutorial is an introduction to a new concept, technique, function, package, or dataset in R that has not been covered in this course.  See the Course Schedule for more details.
 
 ## D. Late and Missing Assignments
 
