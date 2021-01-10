@@ -271,7 +271,7 @@ Also, check out Ben's [Ted Talk](https://www.youtube.com/watch?v=6xsvGYIxJok), o
 
 <a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-01-instructions.html">LAB-01 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402755/View?ou=2225789">Download the Template</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on Jan 21.**
 
