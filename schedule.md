@@ -409,7 +409,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 <a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402756/View">Download the Template</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on Jan 28.**
 
@@ -553,7 +553,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402757/View">Download the Template</a>
 
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 4.**
 
@@ -678,7 +678,7 @@ This lab is designed to introduce you to R Shiny functions by adding a dynamic e
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-04-instructions.html">LAB-04 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402758/View">Download the Template</a>
 
 **Submit solutions to the iCollege Assignments Folder by 11:59pm on Feb 11.**
 
@@ -787,7 +787,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 <a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402759/View">Download the Template</a>
 
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 18.**
 
@@ -922,7 +922,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402760/View">Download the Template</a>
 
 **Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 25.**
 
@@ -960,7 +960,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/code-through-assignment.html">Code-Through Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402763/View">Download the Template</a>
 
 **Due by 11:59pm on Feb 25.**
 
@@ -982,7 +982,7 @@ Working with the crash data from Lab-05, you will extend the work you began in L
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/home/2056378">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-41402776">Download the Templates</a>
 
 **Submit your project to the iCollege Assignment Folder by 11:59pm on Feb 28.**
 
