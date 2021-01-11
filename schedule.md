@@ -28,19 +28,6 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 ** Welcome
 
-*** { @unit = "", @title = "Meet Your Instructor", @lecture, @foldout }
-
-<br>
-
-## Introduction
-
-**Lorenzo Almada, PhD** is a clinical assistant professor of economics at *Georgia State University*. Dr. Almada’s research interests focus primarily on policy-driven questions in the field of health economics centered around the effects of food assistance programs and social policies on diet-related outcomes. His teaching focuses primarily on microeconomics and data science and analytics.  
-
-
-<br>
-
-
-
 <br>
 <br>
 
@@ -63,6 +50,8 @@ Submit Button - <a class="uk-button uk-button-primary" href="{{page.canvas.assig
 
 
 In this course we cover the foundations of data programming with the R language. In order to create robust and dynamic analysis we need to use a couple of tools that were built to leverage the power of R and create compelling narratives. R Studio helps you manage projects by organizing files, scripts, packages and output. Markdown is a simple formatting convention that allows you to create publication-quality documents. And R Markdown is a specific version of Markdown that allows you to combine text and code to create data-driven documents. 
+
+You can think of R, R Studio, and Markdown kind of like Excel (for analysis), Word (for report writing), and Power Point (for presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
 
 [CH-01 Core R](http://ds4ps.org/dp4ss-textbook/ch-010-core-r.html)
 
@@ -104,7 +93,7 @@ You will have plenty of practice with these tools this semester. You will submit
 
 ## Introduce yourself to the class
 
-We will be using the discussion board in iCollege for this course. Introduce yourself to the class and share:
+We will be using the discussion board in iCollege for virtual topical discussions in this course. Introducing yourself to the class is the first step (but not graded). Please share:
 
 1. A little about yourself
 2. Your previous experience with coding and/or data analytics 
@@ -112,28 +101,14 @@ We will be using the discussion board in iCollege for this course. Introduce you
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
-
-
-*** { @unit = "", @title = "Orientation", @lecture, @foldout   }
-
-
-## Welcome !
-
-R is a foundational tool within a toolkit that I will refer to as the "data science ecosystem." 
-
-If you were not able to make the first lab session, we did a brief introduction to the ecosystem - the community of people that are creating cool analytical tools and building tutorials and case studies for how they might be applied, as well as a core set of tools that are all designed to work nicely together in order to implement projects. 
-
-You can think of R, R Studio, and Markdown kind of like Excel (for analysis), Word (for report writing), and Power Point (for presentations). R allows you to analyze your data, but these results are not useful unless you can share them with others. Here is where [data-driven documents](http://ds4ps.org/dp4ss-textbook/ch-030-data-driven-docs.html) developed using R Studio and Markdown really shine. You can quickly package your R code as cool reports, websites, presentations, or dashboards to format the information in whatever way is most accessible and useful for your clients or stakeholders. 
-
 ## Getting Help
 
-Nerds are stereotypically perceived as being hermetic, but in reality they have just created their own universes and civilizations. Surprisingly coding is a very social activity, and real-world analytics projects are almost always collaborative. You will learn how to use discussion boards to accelerate learning and facilitate collaboration, and social coding tools like GitHub to manage large data project. 
+Coding can be a very social activity, and real-world analytics projects are almost always collaborative. You will learn how to use discussion boards to accelerate learning and facilitate collaboration, and social coding tools like GitHub to manage large data projects. 
 
 We are going to throw a lot at you, but also provide a lot of support. Over these first couple of weeks feel free to reach out for anything you might need. 
 
-If you find something confusing let me know (likely others will as well).  You can post a question to the [homework discussion board](https://lalmada1.github.io/Coding-in-R-SPR-2021/help/).   
+If you find something confusing let me know (likely others will as well). You can post a question to the [homework discussion board](https://lalmada1.github.io/Coding-in-R-SPR-2021/help/). Unlike the iCollege discussion board, this one (on GitHub) is far more user friendly for writing bits of code so stick to this one for any questions about the lab assignments. Of course, please feel free to email me if it is more of a personal matter.   
 
-Reach out if you have questions or feel stuck! 
 
 ** Week 1 - Functions and Vectors 
 
