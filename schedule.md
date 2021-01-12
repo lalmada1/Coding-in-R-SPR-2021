@@ -377,7 +377,7 @@ The rest of the chapter is useful information to come back to, but not needed fo
 
 <a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-02-instructions.html">LAB-02 Instructions</a>
 
-<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402756/View">Download the Template</a>
+<a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41633282/View">Download the Template</a>
 
 **Submit Solutions to the iCollege Assignment Folder by 11:59pm on Jan 28.**
 
