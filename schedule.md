@@ -520,6 +520,7 @@ You are advised to **skim** the chapters on graphing functions and custom graphi
 [Building Custom Graphics](http://ds4ps.org/dp4ss-textbook/p-062-customized-graphics.html)
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-03-instructions.html">LAB-03 Instructions</a>
+Use the template link below, not the one provided in these instructions.
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402757/View">Download the Template</a>
 
