@@ -890,6 +890,7 @@ plot( traffic, col="steelblue" )
 This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/lab-06-instructions.html">LAB-06 Instructions</a>
+<-- Don't use template provided in these instructions, download the one linked below.  
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402760/View">Download the Template</a>
 
