@@ -754,7 +754,7 @@ This lab offers practice analyzing traffic accident patterns using **dplyr** dat
 
 *Note, this data will be used for your final dashboard. This assignment is a preview of the types of analysis and graphics you might report on the dashboard.*
 
-<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-05-instructions_new.html">LAB-05 Instructions</a>
+<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/lab-05-instructions_newer.html">LAB-05 Instructions</a>
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402759/View">Download the Template</a>
 
