@@ -880,7 +880,7 @@ plot( traffic, col="steelblue" )
 <br><br>
 
 
-*** { @unit = "Due Feb 25", @title = "Lab 06", @assignment, @foldout  }
+*** { @unit = "Due Feb 27", @title = "Lab 06", @assignment, @foldout  }
 
 <br>
 <br>
@@ -893,7 +893,7 @@ This lab is designed to introduce you to primary data join functions in R.
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402760/View">Download the Template</a>
 
-**Submit solutions to the iCollege Assignment Folder by 11:59pm on Feb 25.**
+**Submit solutions to the iCollege Assignment Folder by 9:00 am on Feb 27.**
 
 <br>
 <br>
@@ -916,7 +916,7 @@ This lab is designed to introduce you to primary data join functions in R.
 <br>
 
 
-*** { @unit = "Due Feb 25", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
+*** { @unit = "Due Feb 25 (Optional)", @title = "Discussion Topic: Code-Through", @assignment, @foldout  }
 
 <br>
 <br>
@@ -931,7 +931,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/viewContent/41402763/View">Download the Template</a>
 
-**Due by 11:59pm on Feb 25.**
+**Due by 11:59pm on Feb 25 (Optional).**
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/2225789/discussions/List">Post to iCollege</a>
 
