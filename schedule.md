@@ -949,7 +949,7 @@ If you send me your RMD and HTML files via email, I will post them to GitHub and
 
 Working with the crash data from Lab-05, you will extend the work you began in Lab-04 by creating a dynamic data dashboard that will be used to search for patterns in Tempe crash data.
 
-<a class="uk-button uk-button-default" href="https://ds4ps.org/cpp-526-fall-2019/LABS/final-project-instructions.html">Final Project Instructions</a>
+<a class="uk-button uk-button-default" href="https://lalmada1.github.io/Coding-in-R-SPR-2021/LABS/final-project-instructions.html">Final Project Instructions</a>
 
 <a class="uk-button uk-button-default" href="https://gastate.view.usg.edu/d2l/le/content/2225789/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-41402776">Download the Templates</a>
 
